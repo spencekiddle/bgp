@@ -1,0 +1,15 @@
+{
+  "name": "bgp",
+  "description": "Board game prototyper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spencekiddle/bgp.git"
+  },
+  "author": "Spence Kiddle",
+  "license": "MIT",
+  "version": "0.0.1",
+  "devDependencies": {
+    "backbone": "file:node_modules/backbone",
+    "karma": "^1.3.0"
+  }
+}
